@@ -1,4 +1,3 @@
-# cybersecurity-journey
 # Cybersecurity Journey
 
 This repository documents my learning path in cybersecurity and emerging technologies.
